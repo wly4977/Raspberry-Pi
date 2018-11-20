@@ -22,9 +22,20 @@ GPIO下方的由塑料和金属构成的连接器是一个显示串行接口(DSI
 ### 1.2.2、连接音频设备
 ### 1.2.3、连接键盘和鼠标
 ### 1.2.4、在SD卡上安装NOOBS
+* [在SD卡上安装NOOBS](https://sspai.com/post/38542)  
 ### 1.2.5、连接外部存储设备
 ### 1.2.6、网络连接
 ### 1.2.7、连接电源
 ### 1.2.8、安装操作系统
 #### 1.2.8.1、使用 NOOBS 安装
 #### 1.2.8.2、手动安装
+* [树莓派(Raspberry Pi 3) - 系统烧录及系统使用](https://blog.csdn.net/u012313335/article/details/53405734)  
+* [树莓派(Raspberry Pi 3)的系统烧录及使用](https://blog.csdn.net/weixin_41656968/article/details/79592624)  
+* [玩转树莓派：安装操作系统](https://blog.csdn.net/walle2018/article/details/79339835)
+* [如果没有显示器如何愉快玩树莓派](https://sspai.com/post/38780)
+# 2、Linux系统管理
+## 2.1、Linux系统概述
+## 2.2、Linux基础
+## 2.3、Raspbian简介
+## 2.4使用外部存储设备
+## 2.5创建一个新的用户账户
